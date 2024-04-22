@@ -18,4 +18,4 @@ Some of the skills I gained upon completion of this module include:
 
 As continuous asessment for this module we were asked to choose an algorithm and explain it in great detail via a powerpoint presentation
 
-I recieved an overall grade of 97%.
+I recieved an overall grade of 97% for this module.
