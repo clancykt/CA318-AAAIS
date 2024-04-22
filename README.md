@@ -1,6 +1,7 @@
 # CA318-AAAIS
 
 **completed in 3rd year**
+
 Advanced Algorithms &amp; AI Search
 
 In this module I was introduced to search-based and other advanced algorithms.
